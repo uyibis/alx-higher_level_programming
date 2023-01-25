@@ -3,6 +3,7 @@
 """
 A script that creates an empty class
 
+
 Attributes:
     Square (class): defines an empty class
 """
