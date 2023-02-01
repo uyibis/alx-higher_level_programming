@@ -3,6 +3,7 @@
 """
 A Rectangle class that extends module 7-rectangle.py
 
+
 TODO:
     * Class method def square(cls, size=0): that returns a new
     Rectangle instance with 'width == height == size'
