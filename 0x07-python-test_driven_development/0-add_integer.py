@@ -4,7 +4,6 @@
 An integer addition module.
 """
 
-
 def add_integer(a, b=98):
     """
     Adds to intgers/floats
