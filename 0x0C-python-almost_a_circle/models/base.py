@@ -1,5 +1,6 @@
 #!/usr/bin/python3
 """Module base.
+
 Defines a Base class for other classes in the project.
 """
 
