@@ -21,3 +21,4 @@ function callback (err, data) {
 fs.readFile(src1, 'utf8', callback);
 
 fs.readFile(src2, 'utf8', callback);
+
